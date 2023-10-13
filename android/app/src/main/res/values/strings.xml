@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Báo thức</string>
+    
+    <!-- Kênh thông báo cho báo thức -->
+    <string name="notification_channel_id_alarm">alarm-app</string>
+    <string name="notification_channel_name_alarm">Alarm</string>
+    <string name="notification_channel_desc_alarm">Fires alarms.</string>
+
+    <!-- Kênh thông báo cho pop-up -->
+    <string name="notification_channel_id_popup">popup-app</string>
+    <string name="notification_channel_name_popup">Pop-up</string>
+    <string name="notification_channel_desc_popup">Displays pop-up notifications.</string>
+
+    <!-- Kênh thông báo cho thông báo hết hạn -->
+    <string name="notification_channel_id_expired">expired-app</string>
+    <string name="notification_channel_name_expired">Expired</string>
+    <string name="notification_channel_desc_expired">Notifies expired alarms.</string>
+</resources>
